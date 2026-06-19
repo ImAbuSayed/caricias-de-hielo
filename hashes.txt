@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricias de hielo
+
+This log tracks the cryptographic history and versioning for the song **Caricias de hielo** (caricias-de-hielo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T01:28:44.503868 | `v1` | `9fd95b6520962bb79b0a31a5d9e0ca7bd181c8ff68c25b61972cf07f6c036c8f` | `ac26f2635c3e2911802edb80c5911ab66412cb28164cce6acaf642f421a7847e` | `2026-06-20_caricias-de-hielo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

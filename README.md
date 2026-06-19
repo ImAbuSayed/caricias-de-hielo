@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-de-hielo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Caricias de hielo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-hielo/) |
+| **Get License** | [Obtain a Music License for Caricias de hielo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-hielo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9fd95b6520962bb79b0a31a5d9e0ca7bd181c8ff68c25b61972cf07f6c036c8f` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
