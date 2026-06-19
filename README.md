@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Caricias de hielo |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-de-hielo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Caricias de hielo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-hielo/) |
+| **Get License** | [Request Licensing for Caricias de hielo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-hielo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Dime qué me hiciste que no puedo dormir
-> Tu aroma en mi cama se quedó para mí
-> Tus labios de fuego, caricias de hielo
-> Baby, tú me llevas de la calle al cielo
+> Caricias de hielo en mi piel esta noche
+> Tu fuego me quema, no puedo esconderme
+> Bailamos tan lento que el tiempo se rompe
+> Tu boca un secreto que quiero tenerte
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
