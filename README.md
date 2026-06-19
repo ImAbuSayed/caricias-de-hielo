@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-de-hielo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Caricias de hielo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-hielo/) |
+| **Get License** | [Commercial Licensing for Caricias de hielo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-hielo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3735)
+- [Telegram](https://t.me/AbuSayedMusic/3748)
 
 ---
 
